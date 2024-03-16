@@ -1,0 +1,15 @@
+html {font-size: 22px;}
+body{
+    background-color: peachpuff}
+a {
+    color:dimgray;
+}
+a:visited
+{
+    color:darkolivegreen;
+}
+a:hover, a:active
+{
+    color: black;
+}
+
